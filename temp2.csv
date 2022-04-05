@@ -1,0 +1,204 @@
+﻿Filing Date,NOC ID,Region,Registered Entity Name,NCR,Reliability Functions,Notice of Confirmed Violation or Settlement Agreement,Admits OR Agrees and Stipulates OR Neither Admits nor Denies OR Does Not Contest,Total Penalty or Sanction ($),NERC Violation ID,Reliability Standard,Req,Risk Assessment,Violation Risk Factor,Violation Severity Level,Method of Discovery,Discovery Date,Violation Start Date,Violation End Date,Mitigation Completion Date,Date Regional Entity Verified Completion of Mitigation ,Description of Noncompliance,Description of the Risk Assessment,Description and Status of Mitigation Activity,Other Factors Affecting the Penalty Determination which includes Compliance History and Internal Compliance Program and Compliance Culture
+44439,NOC-2724,Western Electricity Coordinating Council (WECC) ,Farmington Electric Utility System (FEUS),NCR05155,GO,"Settlement Agreement 
+
+ 
+
+",Admits,"$49,000 (for WECC2020023450 and WECC2020023451)",WECC2020023450,PRC-019-2 ,"R1
+",Moderate,"Medium
+",Lower,"Self-Report
+",43972,42552,44127,44127,TBD,"On May 21, 2020, FEUS submitted a Self-Report stating it was noncompliant with PRC-019-2 R1. Specifically, FEUS did not coordinate an automatic voltage regulator (AVR) with primary and backup Protection System devices for a 104 MVA combined-cycle generating unit. FEUS did not set the in-service limiters to operate before the Protection System of the applicable unit in order to avoid disconnecting the generator unnecessarily. The applicable in-service Protection System devices were not set to operate to isolate or de-energize equipment in order to limit the extent of damage when operating conditions exceed equipment capabilities or stability limits. 
+
+The root cause was attributed to FEUS not reviewing the quality of the settings recommended by a third-party contractor. Thus, when FEUS implemented the recommended settings, the Protection System devices were not coordinated to isolate or de-energize the combined cycle facility to limit the extent of damage when operating conditions exceeded equipment capabilities or stability limits. 
+
+This violation began on July 1, 2016, when the Standard became mandatory and enforceable, and ended on October 23, 2020, when FEUS adjusted the AVR over-excitation limiter (OEL) and over-excitation monitor (OEM) settings for its 104 MVA combined-cycle generating unit. ","This violation posed a moderate risk and did not pose a serious or substantial risk to the reliability of the Bulk Power System (BPS). In this instance, FEUS failed to coordinate the voltage regulating system controls, (including in-service limiters and protection functions) with the applicable equipment capabilities and settings of the applicable Protection System devices and functions, for one 104 MVA generating unit, as required by PRC-019-2 R1; R1.1; R1.1.2. 
+
+Such failure could have resulted in equipment damage to FEUS’s combined cycle generation facility due to the applicable Protection System devices not isolating or de-energizing the Facilities when operating conditions exceeded equipment capabilities or stability limits. However, as compensation, the size of the 104 MVA unit reduced the likelihood that failing to coordinate the AVR and Protection System devices would have had a significant impact on the reliability of the BPS. Furthermore, though FEUS did not coordinate the Protection System devices to operate to isolate or de-energize the unit to limit the extent of damage, it did set the AVR to operate before the unit’s Protection System devices to prevent unnecessarily disconnecting the unit, as required by PRC-019-2 R1.1.1. In addition, FEUS confirmed that it has suffered no equipment damage as a result of the instant violation.","To mitigate this violation, FEUS has: 
+1) contracted two third-party contractors to provide a peer review process and facilitated the review of the settings between the contractors to discuss any differences between the studies;
+2) made required setting changes to the OEL and OEM; specifically, FEUS adjusted the AVR OEL and OEM settings to prevent excessive field current from causing thermal damage to the rotor of the steam and combustion turbines and adjust the V/Hz limiters to fall within the transformer and generator V/Hz capability curves;
+3) implemented a new plan for hiring third-party contractors including: 
+a) hiring reputable contractors who have experience in the services requested by examining one or more of the following company attributes: years of experience, internal peer review processes;
+b) if capable, FEUS engineers will review the recommended settings;
+c) if a potential noncompliance is suggested by the third-party contractor or the review by FEUS engineers shows concerns, another third-party contractor may be hired to provide a more thorough peer review process; and
+d) concerns will be brought to the third-party contractor's attention and discussed for clarity and possible recalculation. 
+","WECC did not apply mitigating credit for FEUS’s Internal Compliance Program (ICP). Although FEUS did have a documented ICP, WECC determined that it was not effective in remediating the violations herein during previous mitigation efforts. 
+
+FEUS’s relevant compliance history regarding PRC-019-2 R1 and PRC-024-2 were not remediated. The violations herein demonstrate that some of the generating units that were involved in the previous instances of noncompliance and are involved in the instant violation. Furthermore, though the previous mitigation has thus far prevented new, distinct instances from occurring, the previous remediation and mitigation efforts were not effective in ending the original instance of noncompliance with PRC-019-2 and PRC-024-2. 
+
+"
+44439,NOC-2724,Western Electricity Coordinating Council (WECC) ,Farmington Electric Utility System (FEUS),NCR05155,GO,"Settlement Agreement 
+
+ 
+
+",Admits,"$49,000 (for WECC2020023450 and WECC2020023451)",WECC2020023451,PRC-024-2,"R2
+",Moderate,"Medium
+",Severe,"Self-Report
+",43972,42552,44127,44127,TBD,"On May 21, 2020, FEUS submitted a Self-Report stating, as a GO, it was noncompliant with PRC-024-2 R2.  Specifically, FEUS did not properly set its undervoltage protective relaying setpoints for a 104 MVA combined-cycle generating unit not to trip within the “no trip zone,” as required by Attachment 2 of the Standard. 
+
+The root cause was attributed to FEUS not reviewing the quality of the settings recommended by a third-party contractor. The third-party contractor used the incorrect Point of Interconnection (POI) leading to incorrect setting recommendations. Thus, when FEUS implemented the recommended settings, the voltage protective relays were not set not to trip within the “no trip zone.” 
+
+This violation issue began on July 1, 2016, when the Standard became mandatory and enforceable, and ended on October 23, 2020, when FEUS adjusted the undervoltage relay setpoints for its 104 MVA combined-cycle generating unit.
+","This violation posed a moderate risk and did not pose a serious or substantial risk to the reliability of the Bulk Power System (BPS). In this instance, FEUS failed to set its protective relaying such that the generator voltage protective relaying did not trip the applicable generating unit as a result of a voltage excursion (at the point of interconnection) caused by an event on the transmission system external to the generating plant that remains within the “no trip zone” of PRC-024 Attachment 2. 
+
+Such failure could have resulted in deteriorated system response following a voltage excursion which could subsequently cause equipment damage, cascading, system instability, or system separation. However, as compensation, the size of the 104 MVA unit reduced the likelihood that tripping within the “no trip zone” during a voltage excursion would have had a significant impact on the reliability of the BPS. Additionally, all the unit’s PRC-024-2 R2 overvoltage relay setpoints were set in accordance with the Standard, therefore the generating unit would have appropriately ridden through an overvoltage excursion.  In addition, FEUS confirmed that it has suffered no equipment damage as a result of the instant violation.","To mitigate this violation, FEUS has: 
+1) contracted two third-party contractors to provide a peer review process and facilitated the review of the settings between the contractors to discuss any differences between the studies;
+2) set its undervoltage relays not to trip in the “no trip zone” specifically, FEUS adjusted the undervoltage relay setpoints for the primary relay to 2 seconds/0.7113 pu from 2 seconds/0.75 pu and to 3 seconds/0.8443 pu from 0.90 pu; for the backup relay to disable one level of trip settings and change other settings to 2 seconds/0.713 pu from 2 seconds/0.75 pu, to 0.30 seconds/0.6261 pu from 0.30 seconds/0.65 pu, and to enable an additional level of tripping at 0.15 seconds/0.4348 pu; for another primary relay to 0.15 seconds/0.4368 pu from 0.15 seconds/0.45 pu, to 0.3 seconds/0.622 pu from 0.3 seconds/0.65 pu, to 2 seconds/0.7113 pu from 2 seconds/0.75 pu, and to 3 seconds/0.8443 pu from 3 seconds/0.90 pu; and for its backup relay to disable one level of trip settings and change other settings to 2 seconds/0.7079 pu from 2 seconds/0.75 pu, to 0.5 seconds/0.6175 pu from 0.3 seconds/0.65 pu, and to enable an additional level of tripping at 0.15 seconds/0.4368 pu; 
+3) implemented new plan for hiring third-party contractors including: 
+a) 	hiring reputable contractors who have experience in the services requested by examining one or more of the following company attributes: years of experience, internal peer review processes; 
+b) 	if capable, FEUS engineers will review the recommended settings;
+c) 	if a potential noncompliance is suggested by the third-party contractor or the review by FEUS engineers shows concerns, another third-party contractor may be hired to provide a more thorough peer review process; and
+d) 	concerns will be brought to the third-party contractor's attention and discussed for clarity and possible recalculation. ","WECC did not apply mitigating credit for FEUS’s Internal Compliance Program (ICP). Although FEUS did have a documented ICP, WECC determined that it was not effective in remediating the violations herein during previous mitigation efforts. 
+
+FEUS’s relevant compliance history regarding PRC-019-2 R1 and PRC-024-2 were not remediated. The violations herein demonstrate that some of the generating units that were involved in the previous instances of noncompliance and are involved in the instant violation. Furthermore, though the previous mitigation has thus far prevented new, distinct instances from occurring, the previous remediation and mitigation efforts were not effective in ending the original instance of noncompliance with PRC-019-2 and PRC-024-2. 
+
+"
+44439,NOC-2727,Western Electricity Coordinating Council (WECC) ,"US Bureau of Reclamation (USBR)
+",NCR05441,GOP,"Settlement Agreement
+",Admits,"No Penalty (for WECC2018020569, WECC2018020042, and WECC2019022404)
+",WECC2018020569,PRC-001-1.1(ii) ,"R3, R3.1
+",Minimal,"High
+",Moderate,"Self-Report
+",43392,43175,43245,43255,43580,"USBR submitted a Self-Report stating it was in potential noncompliance with PRC-001-1.1(ii) R3. Specifically, on April 26, 2018 during an internal audit, USBR discovered it did not coordinate with its Transmission Operator (TOP) and Balancing Authority (BA), on two separate occasions, its protective system changes related to one of its generating Facilities comprised of two generating units with a combined capacity of 184 MVA. These instances occurred on March 16, 2018 and April 16, 2018, when USBR made changes to two relay elements on the two affected generating units. 
+
+The root cause of the violation was attributed to USBR’s job performance standards not being adequately defined. Specifically, USBR’s business practices did not contain a repeatable process for relay setting changes and notification with the TOP and BA with enough task specificity and accountability.
+
+This noncompliance began on March 16, 2018, when USBR first failed to coordinate its protective system changes, and ended on May 25, 2018, when it revised its Memorandum of Understanding (MOU) with its TOP and BA to reflect that the relay elements in scope no longer need to be coordinated in the future. 
+
+
+","This violation posed a minimal risk and did not pose a serious or substantial risk to the reliability of the Bulk Power System (BPS). In this instance, USBR failed to coordinate changes to two relay elements on two generating units, with its TOP and BA, as required by PRC-001-1.1(ii) R3.
+
+In this instance, failure to coordinate relay changes with the TOP and BA would have had no effect to the TOP or BA, as the relay elements at issue only affected protection for the generator and exciter. Additionally, the relay elements did not affect how the TOP or BA would set its own protection relay settings. As such, coordinating with the TOP and BA would have been for informational purposes only, thereby reducing the risk to the BPS.","To mitigate this violation, USBR has or will perform the following actions:  
+
+1) updated its MOU with its TOP and BA and updated the list of relays that needed coordination;
+2) modified its business practice to clearly define processes that assign specific task responsibilities, deadlines, and safeguards to prevent future noncompliance;
+3) modified its PRC-001 relay settings change management process, detailing the steps that needed to be followed when making protection system changes, before the units are put back online; and
+4) developed a checklist to incorporate business practice processes and document task completion. ","On August 22, 2014, in Southwestern Power Administration (SWPA) v. Federal Energy Regulatory Commission (FERC), the United States Court of Appeals for the District of Columbia Circuit unanimously ruled that FERC, and by extension, the North American Electric Reliability Corporation (NERC) and the Regional Entities it oversees, such as WECC, could not impose monetary penalties against federal governmental entities such as SWPA. USBR is a federal governmental entity, and WECC is bound to follow SWPA v. FERC in the resolution of this matter. Therefore, WECC has assessed no monetary penalty for this violation.
+
+WECC considered USBR's PRC-001-1.1(ii) R3 compliance history in determining the disposition track. Additionally, USBR's violation duration is beyond the Operations Planning violation time horizon expectation for remediation."
+44439,NOC-2727,Western Electricity Coordinating Council (WECC) ,"US Bureau of Reclamation (USBR)
+",NCR05441,"GO, TO","Settlement Agreement
+",Admits,"No Penalty (for WECC2018020569, WECC2018020042, and WECC2019022404)
+",WECC2018020042,PRC-005-1.1b ,"R2, R2.1
+",Moderate,"High
+",Lower,"Self-Report
+",43299,42095,42511,43376,43502,"USBR submitted Self-Report stating it was in potential noncompliance with PRC-005-1.1b R2. Specifically, during an internal review, USBR discovered it did not establish evidence that its Protection System devices were maintained and tested within the defined intervals of its Protection System Maintenance and Testing Program (PSMP), for one lockout relay at its 1,125 MVA total capacity hydroelectric plant. USBR had implemented a quality control review process for tracking the completion of its maintenance tasks and to ensure consistency as personnel changes occurred. However, in this instance, a new employee inadvertently changed the completion date for the relay in scope which resulted in the tracking tool having the incorrect next test date. 
+
+The root cause of this violation was attributed to a less than adequate check of the work of the new employee. Specifically, the last test date for the relay was entered as February 12, 2011 instead of the actual testing date of September 28, 2008. As such, USBR missed the 6.5 year maintenance and testing interval date of March 31, 2015, as specified in its PSMP. 
+
+This noncompliance began on April 1, 2015, when USBR missed the maintenance and testing interval for one lockout relay, and ended on May 21, 2016, when USBR completed the maintenance and testing for the lockout relay.","This violation posed a moderate risk and did not pose a serious or substantial risk to the reliability of the BPS, due to the overlap in PRC-005 violation duration, the length of the overall instant violation and the same root cause. In this instance, USBR failed to provide evidence that one lockout relay at its 1,125 MVA hydroelectric plant was maintained and tested within the defined intervals of USBR’s PSMP, as required by PRC-005-1.1b R2.
+
+Such failure could have resulted in a Misoperation that could have caused the four 13.8 kV generator unit breakers to open, which could have removed 625 MW from Bulk Electric System availability. However, as compensation, the affected lockout relay had no Misoperations during the time of the violations, thereby reducing the risk to the BPS. Additionally, the 1,125 MVA hydroelectric plant involved was not running at full capacity through the duration of the violation, further reducing the risk.","To mitigate this violation, USBR has or will perform the following actions:  
+
+1) performed maintenance testing on the one lockout relay;
+2) reduced the number of personnel with the capability to make changes in the maintenance tracking tool to only those that are appropriately trained; and
+3) implemented a quality control review process for tracking the completion of maintenance tasks.","On August 22, 2014, in Southwestern Power Administration (SWPA) v. Federal Energy Regulatory Commission (FERC), the United States Court of Appeals for the District of Columbia Circuit unanimously ruled that FERC, and by extension, the North American Electric Reliability Corporation (NERC) and the Regional Entities it oversees, such as WECC, could not impose monetary penalties against federal governmental entities such as SWPA. USBR is a federal governmental entity, and WECC is bound to follow SWPA v. FERC in the resolution of this matter. Therefore, WECC has assessed no monetary penalty for this violation.
+
+WECC considered USBR's PRC-005-1.1b R2 compliance history in determining the disposition track. Additionally, USBR violation duration is beyond the Long Term Planning violation time horizon expectation for remediation. Furthermore, the PRC-005 violations’ have overlapping root causes for the same Standard and Requirement."
+44439,NOC-2727,Western Electricity Coordinating Council (WECC) ,"US Bureau of Reclamation (USBR)
+",NCR05441,"GO, TO","Settlement Agreement
+",Admits,"No Penalty (for WECC2018020569, WECC2018020042, and WECC2019022404)
+",WECC2019022404,PRC-005-1.1b ,"R2, R2.1
+",Moderate,"Lower
+",Lower,"Self-Report
+",43756,41730,43340,43628,44257,"USBR submitted Self-Report stating it was in potential noncompliance with PRC-005-1.1b R2. USBR discovered it did not establish evidence that two Protection System microprocessor relays at its 115kV switchyard were maintained and tested within the defined intervals of its PSMP. USBR had implemented a quality control review process for tracking the completion of its maintenance tasks and to ensure consistency as personnel changes occurred. However, in this instance, the frequency of maintenance intervals for the relays involved was erroneously entered into the tracking system which resulted in the tracking tool having the incorrect next test date. 
+
+The root cause of this violation was attributed to a less than adequate check of the work of the new employee. As such, USBR missed the 5.5 year maintenance and testing interval date of March 31, 2014, as specified in its PSMP. 
+
+This noncompliance began on April 1, 2014, when USBR missed the maintenance and testing interval for the two microprocessor relays, and ended on August 28, 2018, when USBR completed testing for the two microprocessor relays as specified by its PSMP.
+","This violation posed a moderate risk and did not pose a serious or substantial risk to the reliability of the BPS, due to the overlap in PRC-005 violation duration, the length of the overall instant violation and the same root cause. In this instance, USBR failed to provide evidence that two microprocessor relays at its 115kV switchyard were maintained and tested within the defined intervals of USBR’s PSMP, as required by PRC-005-1.1b R2. 
+
+Such failure could have resulted in a Misoperation of the relays that could have caused the 115kV main bus to trip. However, as compensation, the affected microprocessor relays had no Misoperations during the time of the violations, thereby reducing the risk to the BPS.","To mitigate this violation, USBR has or will perform the following actions:  
+
+1) performed maintenance testing on the two microprocessor relays;
+2) updated the interval for maintenance and testing of microprocessor relays to be completed one year prior to what is specified in its PSMP; 
+3) reduced the number of personnel with the capability to make changes in the maintenance tracking tool to only those that are appropriately trained; and
+4) implemented a quality control review process for tracking the completion of maintenance tasks.","On August 22, 2014, in Southwestern Power Administration (SWPA) v. Federal Energy Regulatory Commission (FERC), the United States Court of Appeals for the District of Columbia Circuit unanimously ruled that FERC, and by extension, the North American Electric Reliability Corporation (NERC) and the Regional Entities it oversees, such as WECC, could not impose monetary penalties against federal governmental entities such as SWPA. USBR is a federal governmental entity, and WECC is bound to follow SWPA v. FERC in the resolution of this matter. Therefore, WECC has assessed no monetary penalty for this violation.
+
+WECC considered USBR's PRC-005-1.1b R2 compliance history in determining the disposition track. Additionally, USBR violation duration is beyond the Long Term Planning violation time horizon expectation for remediation. Furthermore, the PRC-005 violations’ have overlapping root causes for the same Standard and Requirement."
+44439,NOC-2728,Western Electricity Coordinating Council (WECC) ,"Southern California Edison Company (SCEC)
+",NCR05398,TOP,"Settlement Agreement
+
+ 
+
+",Admits,"$85,000 (for WECC2018020295, WECC2018020296, WECC2018020302) 
+",WECC2018020295,COM-002-4 ,"R1
+",Moderate,"Lower
+",Severe,"Compliance Audit
+",8/6/2018 to 8/17/2018,42552,44210,44225,44298,"During a Compliance Audit conducted from August 6, 2018 through August 17, 2018, WECC determined that SCEC, as a Transmission Operator, was in potential noncompliance with COM-002-4 R1. Specifically, WECC discovered that SCEC had a Grid Control Center (GCC) Transmission Dispatcher that issued and received Operating Instructions to the Switching Center Operators or to field personnel. SCEC’s Switching Center Operators also received Operating Instructions from the GCC Transmission Dispatcher and issued Operating Instructions for switching to SCEC’s field personnel. SCEC did not identify and include, within its documented communications protocols, Switching Center Operators or field personnel as individuals that could issue and/or receive Operating Instructions. In addition, the documented communications protocol did not require all of its operating personnel that receive an oral two-party, person-to-person Operating Instruction to take one of the following actions: Repeat, not necessarily verbatim, the Operating Instruction and receive confirmation from the issuer that the response was correct or request that the issuer reissue the Operating Instruction, per COM-002-4 R1.3; nor did SCEC specify the nomenclature for Transmission interface Elements and Transmission interface Facilities when issuing an oral or written Operating Instruction, per COM-002-4 R1.6. 
+
+The root cause of this issue was attributed to SCEC’s misinterpretation of the Standard Requirement. SCEC did not correctly define operating personnel that issue and receive Operating Instructions in its documented communications protocols.
+
+This violation began on July 1, 2016, when the Standard became mandatory and enforceable, and ended on January 14, 2021, when SCEC updated its GCC Communication Protocols for issuing and receiving Operating Instructions with an accurate definition of operating personnel.","This violation posed a moderate risk and did not pose a serious or substantial risk to the reliability of the Bulk Power System (BPS). In this instance, SCEC failed to appropriately develop documented communications protocols for its operating personnel that issue and receive Operating Instructions, as required by COM-002-4 R1, affecting nearly 900 employees. Specifically, the documented communications protocol failed to require its operating personnel that receive an oral two-party, person-to-person Operating Instruction to take one of the following actions: Repeat, not necessarily verbatim, the Operating Instruction and receive confirmation from the issuer that the response was correct or request that the issuer reissue the Operating Instruction, per COM-002-4 R 1.3; nor did SCEC specify the nomenclature for Transmission interface Elements and Transmission interface Facilities when issuing an oral or written Operating Instruction, per COM-002-4 R 1.6.
+
+Failure to include all criteria defined in COM-002-4 R1 could have resulted in a miscommunication between SCEC’s GCC Transmission Dispatchers, Switching Center Operators and field personnel to the issuer or receiver of their Operating Instructions; leading to an action or inaction that could have been harmful to the BPS. However, as compensation, SCEC had separate documented communication protocols that included three-part communications. In addition, SCEC field personnel were trained on three-part communication in a basic operations course; the training focused on receiving the Operating Instructions, not issuing them. Similarly, SCEC had protocols that specified the nomenclature to be used for Transmission interface elements and Facilities, but its protocol for the Switching Center Operations did not specify or reference these documents. ","To mitigate this violation, SCEC has performed the following actions:  
+
+1) updated its GCC Communication Protocols for issuing and receiving Operating Instructions to include: 
+i. all required operating personnel, with expanded definition to include all personnel who issue and receive Operating Instructions; and
+ii.	specific nomenclature for Transmission interface Elements and Transmission interface Facilities when issuing an oral or written Operating Instruction. 
+
+2) developed a process designed to identify operating personnel and develop, deliver and track training associated with the documented communications protocols required by the specific requirements of COM-002-4 R1, R2 and R3. This process included roles, responsibilities, as well as future employee and effectiveness assessment and tracking methodologies.
+
+","WECC reviewed SCEC's internal compliance program (ICP) and considered it to be a neutral factor in the penalty determination because the ICP was not effective in establishing internal controls to detect the instances of noncompliance with COM-002-4. 
+
+SCEC's failure of COM-002-4 was considered a systemic problem, given the number of affected individuals, duration of the issue, and number of Requirements violated. 
+
+WECC considered SCEC's compliance history and determined there were no relevant instances of noncompliance.  
+
+"
+44439,NOC-2728,Western Electricity Coordinating Council (WECC) ,"Southern California Edison Company (SCEC)
+",NCR05398,TOP,"Settlement Agreement 
+
+ 
+
+",Admits,"$85,000 (for WECC2018020295, WECC2018020296, WECC2018020302) 
+",WECC2018020296,COM-002-4 ,"R2
+",Moderate,"Lower
+",High ,"Compliance Audit
+",8/6/2018 to 8/17/2018,42552,44183,44225,44298,"During a Compliance Audit conducted from August 6, 2018 through August 17, 2018, WECC determined that SCEC, as a Transmission Operator, was in potential noncompliance with COM-002-4 R2. Specifically, SCEC had a Grid Control Center (GCC) with personnel responsible for Real-time operations, specifically the GCC Transmission Dispatchers, System Operators and Power System Operations Specialists. SCEC conducted initial training for its 24 GCC Transmission Dispatchers responsible for the Real-time operation regarding the documented communications protocols developed in R1, prior to those individuals issuing an Operating Instruction, but did not conduct the required initial training for its System Operators and Power System Operations Specialists.   
+
+The root cause of the issue was attributed to SCEC’s misinterpretation of the definition of operating personnel. Specifically, SCEC did not correctly define operating personnel responsible for the Real-time operation of the interconnected Bulk Electric System (BES). SCEC previously trained approximately 24 GCC Transmission Dispatchers but based on its new understanding of COM-002-4 R2 an additional 153 operating personnel were trained for issuing and or receiving Operating Instructions in any situation, as required by the Standard.
+
+This violation began on July 1, 2016, when the Standard became mandatory and enforceable and ended on December 18, 2020 when all affected operating personnel received the required initial training.","This violation posed a moderate risk and did not pose a serious or substantial risk to the reliability of the BPS. In this instance, SCEC failed to conduct initial training for its System Operators and Power System Operations Specialists responsible for the Real-time operation of the interconnected BES regarding the documented communications protocols developed in Requirement R1, prior to that individual operator issuing an Operating Instruction, as required by COM-002-4 R2. 
+
+Failure to conduct initial training for operating personnel responsible for the Real-time operation of the interconnected BPS regarding the communication protocols developed in R1 could have resulted in a misunderstanding of instructions by the issuer or receiver of Real-time operating instructions, which could have led to an action or inaction that could have been harmful to the BPS. However, as compensation, SCEC Switching Center Operators were trained on three-part communication in a basic operations course, but the training did not use the correct documented communications protocol and focused on receiving the Operating Instructions, not issuing them, thereby reducing the risk. In addition, the 24 GCC Transmission Dispatchers that performed the majority of the Operating Instructions had been trained in accordance with the Standard.  As well, SCEC had communications manuals that clearly stated the objectives from the documented communications protocol.","To mitigate this violation, SCEC has performed the following actions:  
+
+1) developed high level process designed to identify operating personnel and develop, deliver and track training associated with the documented communications protocols required by the specific requirements of COM-002-4 R1, R2 and R3. This process included roles, responsibilities, as well as future employee and effectiveness assessment and tracking methodologies;
+2) built and tested processes for identifying operating personnel and tracking training by developing and finalizing functional rolls, responsibilities, processes, procedures, and controls; and 
+3) updated and completed end user training material by developing an updated communication protocol training for all in scope operating personnel;
+4) updated its communications protocol to include all required operating personnel, with expanded definition to include all personnel who issue and receive Operating Instructions; and
+5) conducted initial training for each of its operating personnel responsible for the Real-time operation on its documented communications protocols.","WECC reviewed SCEC's internal compliance program (ICP) and considered it to be a neutral factor in the penalty determination because the ICP was not effective in establishing internal controls to detect the instances of noncompliance with COM-002-4. 
+
+SCEC's failure of COM-002-4 was considered a systemic problem, given the number of affected individuals, duration of the issue, and number of Requirements violated. 
+
+WECC considered SCEC's compliance history and determined there were no relevant instances of noncompliance.  
+
+"
+44439,NOC-2728,Western Electricity Coordinating Council (WECC) ,"Southern California Edison Company (SCEC)
+",NCR05398,"DP, GOP","Settlement Agreement 
+
+ 
+
+",Admits,"$85,000 (for WECC2018020295, WECC2018020296, WECC2018020302) 
+",WECC2018020302,COM-002-4 ,"R3
+",Moderate,"Lower
+",High ,"Compliance Audit
+",8/6/2018 to 8/17/2018,42552,44193,44225,44298,"During a Compliance Audit conducted from August 6, 2018 through August 17, 2018, WECC determined that SCEC, as a Distribution Provider and Generator Operator, was in potential noncompliance with COM-002-4 R3. Specifically, at the time of the audit, SCEC had 24 Grid Control Center (GCC) Transmission Dispatchers that issued and received Operating Instructions to the Switching Center Operators or to SCEC field personnel. SCEC’s Switching Center Operators also receive Operating Instructions from the GCC Transmission Dispatcher and issue Operating Instructions for switching to SCEC’s field personnel. SCEC did not correctly define its operating personnel that issue and receive Operating Instructions and therefore did not conduct initial training for all operating personnel who could receive Operating Instructions on receiving an Operating Instructions. Specifically, SCEC did not conduct the required initial training for Switching Center Operators, SCEC Transmission and Distribution field personnel, Power Supply personnel and generator unit operators. 
+
+The root cause of the issue was attributed to SCEC’s misinterpretation of the definition of operating personnel. SCEC previously trained approximately 24 GCC Transmission Dispatchers, and 697 additional personnel who could possibly issue or receive Operating Instructions in any situation were trained, as a result of this issue.
+
+This violation began on July 1, 2016, when the Standard became mandatory and enforceable and ended on December 18, 2020 when all affected operating personnel received the required initial training. 
+
+","This violation posed a moderate risk and did not pose a serious or substantial risk to the reliability of the BPS. In this instance, SCEC failed to conduct initial training for its field personnel and generator unit operators who can receive an oral two-party, person-to-person Operating Instruction prior to that individual operator receiving an oral two-party, person-to-person Operating Instruction to either: repeat, not necessarily verbatim, the Operating Instruction and receive confirmation from the issuer that the response was correct, or request that the issuer reissue the Operating Instruction, as required by COM-002-4 R3.  
+
+Failure to conduct three-part communication training for operating personnel who can receive Operating Instructions could have resulted in a misunderstanding of instructions, which could have led to an action or inaction that could have been harmful to the BPS. However, as compensation, the 24 GCC Transmission Dispatchers that were responsible for a majority of the issuing and receiving of the Operating Instructions had been trained according to the requirements of the Standard. In addition, all SCEC field personnel and personnel mentioned herein were trained on three-part communication in a basic operations course, but the training did not use the correct documented communications protocol and the training focused on receiving the Operating Instructions, not issuing them, thereby reducing the risk. As well, SCEC had a power point of the training for generating unit operators but was not able to provide evidence regarding which personnel were trained or when, thus the generator unit operators had received minimal training, thereby reducing the risk to the BPS. ","To mitigate this violation, SCEC has performed the following actions:  
+
+1) developed a process designed to identify operating personnel and develop, deliver and track training associated with the documented communications protocols required by the specific requirements of COM-002-4 R1, R2 and R3. This process included roles, responsibilities, as well as future employee and effectiveness assessment and tracking methodologies;
+2) built and tested processes for identifying operating personnel and tracking training by developing and finalizing functional rolls, responsibilities, processes, procedures, and controls;
+3) updated and completed end user training material by developing an updated communication protocol training for all in scope operating personnel;
+4) updated its communications protocol to include all required operating personnel, with expanded definition to include all personnel who issue and receive Operating Instructions; and
+5) conducted initial training for each of its operating personnel who can receive an oral two-party, person-to-person Operating Instruction. ","WECC reviewed SCEC's internal compliance program (ICP) and considered it to be a neutral factor in the penalty determination because the ICP was not effective in establishing internal controls to detect the instances of noncompliance with COM-002-4. 
+
+SCEC's failure of COM-002-4 was considered a systemic problem, given the number of affected individuals, duration of the issue, and number of Requirements violated. 
+
+WECC considered SCEC's compliance history and determined there were no relevant instances of noncompliance.  
+
+"
